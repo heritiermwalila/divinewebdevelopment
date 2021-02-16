@@ -1,0 +1,1 @@
+export {LangProvider, defaultLacal, locals, LangContext } from './Lang'
